@@ -1,4 +1,0 @@
-gradio==3.40.1
-huggingface_hub==0.16.4
-torch==2.0.1
-torchaudio==2.0.2
